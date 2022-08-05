@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on whatever I feel like working on 
 - 🌱 I’m currently learning C#/.NET programming, but I struggle on committing to learning
 - 🤔 I’m looking for help with learning to code with C#
-- 💬 Ask me about through Discord, I'm cool I think
+- 💬 Feel free to message me through my Discord (it's in my bio), I'm cool I think
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also like 3d rendering and game design, my favorite genres are strategy and survival or coop.
 
