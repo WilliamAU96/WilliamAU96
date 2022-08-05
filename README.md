@@ -10,6 +10,7 @@ I've been trying to learn digital skills such as programming, game design and re
 I haven't really gone anywhere from it, I'm currently trying to learn C#, for the second time.
 Wish me luck.
 
+(ps, although my username has 96 at the end, I was not born in 1996, the username was taken)
 <!--
 **WilliamAU96/WilliamAU96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
